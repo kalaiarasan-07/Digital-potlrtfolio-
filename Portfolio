@@ -1,0 +1,157 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://ljfcKE3YNrmgMF7:RHXan4ACH3ghWUj@localhost:32693/storage/emulated/0/Kalaiarasan%20S.html
+Subject: Portfolio
+Date: Tue, 18 Mar 2025 21:27:07 +0530
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--9TWNVVHQczk9XpyIOaiWEb0TEmr2T02sEwWGJ5rwcA----"
+
+
+------MultipartBoundary--9TWNVVHQczk9XpyIOaiWEb0TEmr2T02sEwWGJ5rwcA----
+Content-Type: text/html
+Content-ID: <frame-470D5FC43FF9ED108A8DE0AC0A99EB3D@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: http://ljfcKE3YNrmgMF7:RHXan4ACH3ghWUj@localhost:32693/storage/emulated/0/Kalaiarasan%20S.html
+
+<!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252"><link rel="stylesheet" type="text/css" href="cid:css-d0ecdba9-e2ab-414d-946d-b0017750816e@mhtml.blink" />
+    <title>Portfolio</title>
+    
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <!-- Add your profile picture here -->
+            <img src="http://ljfcKE3YNrmgMF7:RHXan4ACH3ghWUj@localhost:32693/storage/emulated/0/passport%20photo.jpg" alt="Your Profile Picture" class="profile-picture">
+            <h1>Kalaiarasan S</h1>
+            <p>Am Student Of Information Technology </p>
+        </div>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="http://ljfcKE3YNrmgMF7:RHXan4ACH3ghWUj@localhost:32693/storage/emulated/0/Kalaiarasan%20S.html#about">About</a></li>
+            <li><a href="http://ljfcKE3YNrmgMF7:RHXan4ACH3ghWUj@localhost:32693/storage/emulated/0/Kalaiarasan%20S.html#education">Education</a></li>
+            <li><a href="http://ljfcKE3YNrmgMF7:RHXan4ACH3ghWUj@localhost:32693/storage/emulated/0/Kalaiarasan%20S.html#skills">Skills</a></li>
+            <li><a href="http://ljfcKE3YNrmgMF7:RHXan4ACH3ghWUj@localhost:32693/storage/emulated/0/Kalaiarasan%20S.html#projects">Projects</a></li>
+            <li><a href="http://ljfcKE3YNrmgMF7:RHXan4ACH3ghWUj@localhost:32693/storage/emulated/0/Kalaiarasan%20S.html#resume">Resume</a></li>
+           
+        </ul>
+    </nav>
+
+    <section id="about">
+        <div class="section-content">
+            <h2>About Me</h2>
+            <p>I'm a <b>Student pf bharathiyar University</b>.I had strong foundation in c,c++,java,html,java script 
+                I can make a web sites and Snapchat clone app.I am dedicated to staying up to date with the latest trends and creations
+                  
+                 
+            
+                 .</p>
+
+        </div>
+    </section>
+
+    <section id="education">
+        <div class="section-content">
+            <h2>Education</h2>
+            <p> GOVERNMENT ARTS AND SCIENCE COLLEGE - INFORMATION TECNOLOGY</p>
+            
+            
+        </div>
+    </section>
+
+    <section id="skills">
+        <div class="section-content">
+            <h2>Skills</h2>
+            <ul>
+                
+                
+                <li>C</li>
+               
+                <li>html</li>
+                
+                <li>java</li>
+                <li>c++</li>
+                <li>Java script</li>
+            </ul>
+        </div>
+    </section>
+
+    <section id="projects">
+        <div class="section-content">
+            <h2>Projects</h2>
+            <ul>
+                <li><a href="http://ljfcKE3YNrmgMF7:RHXan4ACH3ghWUj@localhost:32693/storage/emulated/0/Kalaiarasan%20S.html#">E Cart website</a></li>
+                <li><a href="http://ljfcKE3YNrmgMF7:RHXan4ACH3ghWUj@localhost:32693/storage/emulated/0/Kalaiarasan%20S.html#">Cloud Security IBM</a></li>
+                <li><a href="http://ljfcKE3YNrmgMF7:RHXan4ACH3ghWUj@localhost:32693/storage/emulated/0/Kalaiarasan%20S.html#">IBM chatbot</a></li>
+                <li><a href="http://ljfcKE3YNrmgMF7:RHXan4ACH3ghWUj@localhost:32693/storage/emulated/0/Kalaiarasan%20S.html#">College Portal</a></li> 
+                <!-- Add more project links here -->
+            </ul>
+        </div>
+    </section>
+
+    <section id="resume">
+    
+        <div class="section-content">
+            <center>
+            <h2>Resume</h2>
+            <a href="http://ljfcKE3YNrmgMF7:RHXan4ACH3ghWUj@localhost:32693/storage/emulated/0/file.pdf" target="_blank" class="download-button">Download CV</a>
+        </center>
+        </div>
+        
+    </section>
+
+    <footer>
+        <p>© 2025 Kalaiarasan S</p>
+    </footer>
+
+    
+
+!DOCTYPE html&gt;
+
+
+
+  
+  <title>Hello, World!</title>
+
+
+  <h1>
+    Hello, World!
+  </h1>
+
+
+</body></html>
+------MultipartBoundary--9TWNVVHQczk9XpyIOaiWEb0TEmr2T02sEwWGJ5rwcA----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-d0ecdba9-e2ab-414d-946d-b0017750816e@mhtml.blink
+
+@charset "windows-1252";
+
+body { font-family: Arial, sans-serif; margin: 0px; padding: 0px; background-color: rgb(132, 166, 233); }
+
+header { background-color: rgb(148, 25, 25); color: rgb(255, 255, 255); text-align: center; padding: 2rem 0px; position: relative; }
+
+.header-content h1 { font-size: 2.5rem; }
+
+.profile-picture { width: 100px; height: 100px; border-radius: 75%; object-fit: cover; position: absolute; top: 75px; left: 75px; }
+
+nav { background-color: rgb(51, 51, 51); color: rgb(255, 255, 255); text-align: center; }
+
+nav ul { list-style-type: none; padding: 0px; }
+
+nav ul li { display: inline; margin: 0px 20px; }
+
+nav ul li a { text-decoration: none; color: rgb(255, 255, 255); }
+
+.section-content { background-color: rgb(255, 255, 255); padding: 2rem; margin: 1rem; border-radius: 20px; box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 10px; text-align: justify; }
+
+.download-button { background-color: rgb(51, 51, 51); color: rgb(255, 255, 255); padding: 0.5rem 1rem; text-decoration: none; border-radius: 20px; display: inline-block; margin-top: 10px; align-self: center; }
+
+.download-button:hover { background-color: rgb(85, 85, 85); }
+
+footer { text-align: center; padding: 1rem 0px; background-color: rgb(51, 51, 51); color: rgb(255, 255, 255); }
+
+ul { list-style-type: disc; padding-left: 20px; }
+------MultipartBoundary--9TWNVVHQczk9XpyIOaiWEb0TEmr2T02sEwWGJ5rwcA------
